@@ -1,4 +1,4 @@
-# Body-Tracker
+# Body Tracker
 
 ## Problem Statement:
 In the healthcare sector, continuous patient health monitoring is crucial for timely intervention and better patient outcomes. However, traditional monitoring systems often lack mobility and real-time data accessibility, hindering effective healthcare delivery. There is a need for an efficient and portable solution that can monitor patient health parameters remotely and alert healthcare providers in case of any abnormalities.
