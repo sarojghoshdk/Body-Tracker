@@ -20,4 +20,4 @@ We propose the development of an IoT-based Patient Health Monitoring System usin
 
 Overall, the proposed IoT-based Patient Health Monitoring System offers a cost-effective, efficient, and scalable solution for continuous patient monitoring, enhancing the quality of healthcare services provided.
 
-<img width="960" alt="image" src="">
+<img width="960" alt="image" src="https://github.com/sarojghoshdk/Body-Tracker/blob/main/certificate.jpg">
